@@ -6,6 +6,9 @@ export const Post = () => {
             <h2>
                 Post
             </h2>
+            <p>
+                11
+            </p>
         </div>
     )
 }
