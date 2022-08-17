@@ -4,7 +4,7 @@ export const Test = () => {
     return (
         <div>
             <h2>
-                User
+                Test
             </h2>
         </div>
     )
